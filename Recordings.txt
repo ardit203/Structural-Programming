@@ -1,0 +1,49 @@
+1.
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/50ff49d7867a0ea818c88c3cd30e8bc8f0381170-1634193874331?meetingId=50ff49d7867a0ea818c88c3cd30e8bc8f0381170-1634193874331
+
+2.
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/0de0cc447e897e27443843423b6870f4d754354c-1634795164468?meetingId=0de0cc447e897e27443843423b6870f4d754354c-1634795164468
+
+3. Operators
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1554b527b7f43f5f7a0db6598f5283a521abea26-1635401033392?meetingId=1554b527b7f43f5f7a0db6598f5283a521abea26-1635401033392
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/32e0dbd49ecd3ab58b98856d79f95c30a96ea12f-1635867640296?meetingId=32e0dbd49ecd3ab58b98856d79f95c30a96ea12f-1635867640296
+
+4. If, else & switch
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/b08f68168c0fe8fa4113754e0554dc6606dd7875-1636007944351?meetingId=b08f68168c0fe8fa4113754e0554dc6606dd7875-1636007944351
+
+5. Loops
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/c770326fc74901080b6008f8e3b22844c4ed843f-1636357043590?meetingId=c770326fc74901080b6008f8e3b22844c4ed843f-1636357043590
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/b02438e234d008b45a933f4abdcb6b0946441585-1637153255268?meetingId=b02438e234d008b45a933f4abdcb6b0946441585-1637153255268
+
+6. Midterms
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6171a79e6572f02a4efab544343512df0000d5cc-1637218867478?meetingId=6171a79e6572f02a4efab544343512df0000d5cc-1637218867478
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6171a79e6572f02a4efab544343512df0000d5cc-1637158036808?meetingId=6171a79e6572f02a4efab544343512df0000d5cc-1637158036808
+
+7. Arrays
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/56c6bb4aa34bf61543c2b03d4141f2cd40ec47cd-1605688380302?meetingId=56c6bb4aa34bf61543c2b03d4141f2cd40ec47cd-1605688380302
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/82b671bbf52b3e38634237424f9c0793fc718f89-1638427631803?meetingId=82b671bbf52b3e38634237424f9c0793fc718f89-1638427631803
+
+8. Matrices & Functions
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d351f871af9e44f68f6f16c494d86f7c94b5dbfd-1670337483637
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ac616b81e0206e8e3acff65b0d656b7b22ce64a6-1639032719317
+
+9. Recursive Functions
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ce007ec70a6845ec26bb14c7f52a9387622bcf7f-1639637803448
+
+10. Pointers
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6fc29ac3c17658896c3dafea7f9682456e27a1e3-1640242410360
+
+11. Strings
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/48a6dd2b5289f2646c5e11aa4f90498b46dd6966-1640849747012
+
+12. Files 
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d109bbc508b61bcd97eaa41c76eab8254368a08f-1609771404024?meetingId=d109bbc508b61bcd97eaa41c76eab8254368a08f-1609771404024
+
+13. 2nd Midterm & exams
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/751f050dc9e455c721ac28882bc92acd48f8b53e-1641905481696
+
+
+
+https://docs.google.com/document/d/e/2PACX-1vRmubuPytMj19MzU6pVRyoWGhRkYW8RMN3Zz1uEWKoDlh7O-DovGeGDoFf-r1eEuqnzhANqRr8b-u1k/pub - all recordings
+
+https://github.com/stefanandonov/SP2022 - github
