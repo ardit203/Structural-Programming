@@ -1,9 +1,0 @@
-1. Open File
-
-2.Decison
-Line By Line fgets/fputs->NULL
-char by char fgetc/fputc->EOF
-Formated fscanf/fprintf
-
-3. Close file
-fclose()
